@@ -1,4 +1,3 @@
-# insight-email-HTML
 # README: Insight HTML Email Template
 
 ## Overview
